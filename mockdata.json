@@ -1,0 +1,62 @@
+[
+    {
+        "id": 3129817,
+        "name": "Cecilla Brindley",
+        "controleur": false,
+        "takenlijst": []
+    },
+    {
+        "id": 3130660,
+        "name": "Darleen Corzor",
+        "controleur": true,
+        "takenlijst": []
+    },
+    {
+        "id": 3131503,
+        "name": "Shanna Shires",
+        "controleur": false,
+        "takenlijst": []
+    },
+    {
+        "id": 3132346,
+        "name": "Lester Drewery",
+        "controleur": false,
+        "takenlijst": []
+    },
+    {
+        "id": 3133189,
+        "name": "Andreana Sweetmore",
+        "controleur": true,
+        "takenlijst": []
+    },
+    {
+        "id": 3134032,
+        "name": "Elmo Benterman",
+        "controleur": true,
+        "takenlijst": []
+    },
+    {
+        "id": 3134875,
+        "name": "Clo MacCartair",
+        "controleur": true,
+        "takenlijst": []
+    },
+    {
+        "id": 3135718,
+        "name": "Dana Stebbing",
+        "controleur": false,
+        "takenlijst": []
+    },
+    {
+        "id": 3136561,
+        "name": "Marge Balmer",
+        "controleur": false,
+        "takenlijst": []
+    },
+    {
+        "id": 3137404,
+        "name": "Joel Vuitte",
+        "controleur": false,
+        "takenlijst": []
+    }
+]
